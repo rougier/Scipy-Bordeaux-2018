@@ -54,7 +54,7 @@ test the installation. To do that, you'll need to open a terminal and type:
 
 ``` bash
 $ conda --version
-conda 3.19.1
+conda 4.4.10
 ```
 
 If this works, your conda version should be greater than 3.19.1.
@@ -62,8 +62,8 @@ We can now try to start the Python interpreter.
 
 ``` bash
 $ python
-Python 3.5.1 (default, Dec 26 2015, 18:11:22)
-[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)] on darwin
+Python 3.6.4 (default, Jan  6 2018, 11:51:59)
+[GCC 4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39.2)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> |
 ```
@@ -74,14 +74,9 @@ powerful that the vanilla interpreter.
 
 ``` bash
 $ ipython
-Python 3.5.1 |Anaconda 2.5.0 (x86_64)| (default, Dec  7 2015, 11:24:55)
-Type "copyright", "credits" or "license" for more information.
-
-IPython 4.0.3 -- An enhanced Interactive Python.
-?         -> Introduction and overview of IPython's features.
-%quickref -> Quick reference.
-help      -> Python's own help system.
-object?   -> Details about 'object', use 'object??' for extra details.
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 12:04:33)
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.2.1 -- An enhanced Interactive Python. Type '?' for help.
 
 In [1]: |
 ```
@@ -101,7 +96,7 @@ than the number of closing parantheses).
 ``` python
 >>> import numpy
 >> print(numpy.__version__)
-1.10.4
+1.13.3
 >>> numpy.test() # This can last a few seconds
 ..........................
 ```
@@ -111,7 +106,7 @@ than the number of closing parantheses).
 ``` python
 >>> import scipy
 >>> print(scipy.__version__)
-0.17.0
+0.19.1
 >>> scipy.test() # This can last a few seconds
 ...........................
 ```
@@ -121,7 +116,7 @@ than the number of closing parantheses).
 ``` python
 >>> import matplotlib
 >>> print(matplotlib.__version__)
-1.5.1
+2.1.0
 >>> matplotlib.test() # This can last a few minutes
 ...........................
 ```
@@ -131,7 +126,7 @@ than the number of closing parantheses).
 ``` python
 >>> import cython
 >>> print(cython.__version__)
-0.23.4
+0.26
 ```
 
 **Checking for opengl**
