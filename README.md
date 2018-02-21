@@ -71,9 +71,10 @@ platforms.
 
 **See also**:
 
+  * [Visualization Crash Course](https://github.com/rougier/ASPP-2017)
   * [10 Simple rules for better figures](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
   * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
-
+  
 
 ----
 
