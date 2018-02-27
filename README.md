@@ -124,11 +124,13 @@ one for your specific needs.
 
 ### 2.4 - Vectorization (day 4)
 
-NumPy is all about vectorization. If you are familiar with Python, this is the
-main difficulty you'll face because you'll need to change your way of thinking
-and your new friends (among others) are named "vectors", "arrays", "views" or
-"ufuncs".
+[NumPy is all about
+vectorization](http://www.labri.fr/perso/nrougier/from-python-to-numpy/). If
+you are familiar with Python, this is the main difficulty you'll face because
+you'll need to change your way of thinking and your new friends (among others)
+are named "vectors", "arrays", "views" or "ufuncs".
 
+----
 
 
 ![](PhD-Comics.png)
