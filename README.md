@@ -109,7 +109,7 @@ or needs to be shared can and should be stored in a version control system.
   * [Git Book](https://git-scm.com/book/en/v2)
   * [Git cheat sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
   * [Oh shit, git!](http://ohshitgit.com)
-
+  * [Github Education Pack](https://education.github.com/pack)
 
 ### 2.3 - C/Python integration (day 4)
 
